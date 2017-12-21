@@ -21,7 +21,7 @@
  */
 
 //Piezo defines
-#define NUM_PIEZOS 6
+#define NUM_PIEZOS 5
 #define SNARE_THRESHOLD 30     //anything < TRIGGER_THRESHOLD is treated as 0
 #define LTOM_THRESHOLD 30
 #define RTOM_THRESHOLD 30
